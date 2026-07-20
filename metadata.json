@@ -1,0 +1,6 @@
+{
+  "name": "Party-3 Finder",
+  "description": "A high-performance live search and filter tool for the PDF names dataset with support for manual CSV overrides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
